@@ -1,0 +1,24 @@
+{
+  "name": "joi-validation",
+  "version": "1.0.0",
+  "description": "joi validation learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geethanjali12/JOI-Validation.git"
+  },
+  "author": "Geethanjali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geethanjali12/JOI-Validation/issues"
+  },
+  "homepage": "https://github.com/Geethanjali12/JOI-Validation#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "mongoose": "^7.6.3"
+  }
+}
